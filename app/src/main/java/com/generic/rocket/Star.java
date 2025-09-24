@@ -1,4 +1,4 @@
 package com.generic.rocket;
 
-public class Star {
+public class Star extends shape {
 }
